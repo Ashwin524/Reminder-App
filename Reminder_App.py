@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Ultimate Reminder App - CLEAN & FUNCTIONAL EDITION
-All features working properly with clean UI
+Reminder App
 """
 
 import json
